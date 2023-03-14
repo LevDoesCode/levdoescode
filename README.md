@@ -13,7 +13,7 @@
 
 ## Technologies
 
-I'm Lev, a last-year computer science 
+I'm Lev, a last-year computer science
 
 <script src="https://kit.fontawesome.com/b878cb16a7.js" crossorigin="anonymous"></script>
 <style>
@@ -22,12 +22,24 @@ I'm Lev, a last-year computer science
     font-weight:700;
     font-size: 30px;
 }
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
 </style>
 
 <div class="green">
     Markdown css styles
 </div>
-<i class="fa-solid fa-thumbs-up fa-5x"></i>
+<label class="switch">
+  <input type="checkbox" checked>
+  <span class="slider round"></span>
+</label>
+
 <!--
 **LevDoesCode/levdoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
