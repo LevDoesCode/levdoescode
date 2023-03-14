@@ -1,4 +1,4 @@
-![My Banna]()
+![My Banna](assets/aaa.jpg)
 
 ## Hi there 👋
 
