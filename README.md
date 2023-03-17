@@ -52,14 +52,12 @@ img:hover {
   <span class="slider round"></span>
 </label>
 
-<!-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="background:red" width="50" height="50"> -->
+<img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="background:red" width="50" height="50">
+<div class="svg1">Hiyo</div>
 
-<!-- ![MySVG](./assets/page.svg) -->
+![MySVG](./assets/ball3.svg)
 
-<svg class="svg1" width="500" height="300" style="border:1px red solid" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="50" r="50" fill="blue" />
-  <circle cx="100" cy="150" r="50" fill="red" />
-</svg>
+
 
 All Encompassing Entity Playing
 AEEPG
