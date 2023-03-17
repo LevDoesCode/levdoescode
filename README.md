@@ -67,7 +67,7 @@ img:hover {
     <img src="./assets/animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-![MySVG](./assets/ball3.svg)
+[![MySVG](./assets/ball3.svg)](#)
 <img class="svg1" src="./assets/waves.svg">
 ![MySVG](./assets/waves.svg)
 
