@@ -41,6 +41,7 @@ I'm Lev, a last-year computer science
 </label>
 
 ![MySVG](./assets/ball.svg)
+![MySVG](./assets/ball2.svg)
 ![MySVG](./assets/script01.svg)
 
 All Encompassing Entity Playing
