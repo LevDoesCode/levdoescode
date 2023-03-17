@@ -57,7 +57,9 @@ img:hover {
 <div class="svg1">Hiyo</div>
 
 <div style="width: 100%;">
-  <img src="./assets/animated.svg" style="width: 100%;" alt="Click to see the source">
+  <picture>
+    <img src="./assets/animated.svg" style="width: 100%;" alt="Click to see the source">
+  </picture>
 </div>
 
 ![MySVG](./assets/ball3.svg)
