@@ -40,6 +40,11 @@ I'm Lev, a last-year computer science
   <span class="slider round"></span>
 </label>
 
+![MySVG](./assets/ball.svg)
+![MySVG](./assets/script01.svg)
+
+All Encompassing Entity Playing
+AEEPG
 <!--
 **LevDoesCode/levdoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
