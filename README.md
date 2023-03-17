@@ -52,10 +52,11 @@ img:hover {
   <span class="slider round"></span>
 </label>
 
-<img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="background:red" width="50" height="50">
+<img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="" width="50" height="50">
 <div class="svg1">Hiyo</div>
 
 ![MySVG](./assets/ball3.svg)
+![MySVG](./assets/waves.svg)
 
 
 
