@@ -45,6 +45,13 @@ img:hover {
 }
 </style>
 
+{
+ resolve: 'gatsby-remark-images',
+ options: {
+   linkImagesToOriginal: false,
+ },
+}
+
 <div class="green">
     Markdown css styles
 </div>
@@ -62,7 +69,7 @@ img:hover {
   </picture>
 </div>
 
-![MySVG](./assets/ball3.svg)
+[![MySVG](./assets/ball3.svg)](#)
 <img class="svg1" src="./assets/waves.svg">
 ![MySVG](./assets/waves.svg)
 
