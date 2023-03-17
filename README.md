@@ -37,6 +37,7 @@ img:hover {
 
 .svg1 {
   background: purple;
+  pointer: none;
 }
 
 .svg1:hover {
