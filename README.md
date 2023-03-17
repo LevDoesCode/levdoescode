@@ -65,7 +65,7 @@ img:hover {
 
 <div style="width: 100%;">
   <picture style="width: 100%;">
-    <img src="./assets/animated.svg" alt="Click to see the source">
+    <img src="./assets/animated.svg" style="width: 100%;" alt="Click to see the source">
   </picture>
 </div>
 
