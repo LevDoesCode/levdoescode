@@ -22,6 +22,10 @@ I'm Lev, a last-year computer science
     font-weight:700;
     font-size: 30px;
 }
+
+img:hover {
+  background:green;
+}
 /* Rounded sliders */
 .slider.round {
   border-radius: 34px;
@@ -29,6 +33,14 @@ I'm Lev, a last-year computer science
 
 .slider.round:before {
   border-radius: 50%;
+}
+
+.svg1 {
+  background: purple;
+}
+
+.svg1:hover {
+  background: green;
 }
 </style>
 
@@ -40,9 +52,14 @@ I'm Lev, a last-year computer science
   <span class="slider round"></span>
 </label>
 
-![MySVG](./assets/ball.svg)
-![MySVG](./assets/ball2.svg)
-![MySVG](./assets/script01.svg)
+<!-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="background:red" width="50" height="50"> -->
+
+<!-- ![MySVG](./assets/page.svg) -->
+
+<svg class="svg1" width="500" height="300" style="border:1px red solid" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="50" r="50" fill="blue" />
+  <circle cx="100" cy="150" r="50" fill="red" />
+</svg>
 
 All Encompassing Entity Playing
 AEEPG
