@@ -63,6 +63,22 @@ img:hover {
 ![MySVG](./assets/ball3.svg)
 <img class="svg1" src="./assets/waves.svg">
 ![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
+![MySVG](./assets/waves.svg)
 
 
 
