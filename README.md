@@ -45,6 +45,13 @@ img:hover {
 }
 </style>
 
+{
+ resolve: 'gatsby-remark-images',
+ options: {
+   linkImagesToOriginal: false,
+ },
+}
+
 <div class="green">
     Markdown css styles
 </div>
