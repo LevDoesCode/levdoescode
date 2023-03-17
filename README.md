@@ -63,8 +63,8 @@ img:hover {
 <img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="" width="50" height="50">
 <div class="svg1">Hiyo</div>
 
-<div style="width: 100%;">
-  <picture style="width: 100%;">
+<div style="">
+  <picture style="">
     <img src="./assets/animated.svg" style="width: 100%;" alt="Click to see the source">
   </picture>
 </div>
