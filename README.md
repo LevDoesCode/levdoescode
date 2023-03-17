@@ -55,7 +55,9 @@ img:hover {
 <img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="" width="50" height="50">
 <div class="svg1">Hiyo</div>
 
+
 ![MySVG](./assets/ball3.svg)
+<img class="svg1" src="./assets/waves.svg">
 ![MySVG](./assets/waves.svg)
 
 
