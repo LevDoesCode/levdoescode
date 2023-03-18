@@ -12,8 +12,9 @@
 ## Recent Repos
 
 ## Technologies
+JS, HTML, CSS, C++, C#, Python, AutoHotkey, SASS, TypeScript, Node, Express, 
 
-I'm Lev, a last-year computer science
+I'm Lev, a third-year computer science
 
 <script src="https://kit.fontawesome.com/b878cb16a7.js" crossorigin="anonymous"></script>
 <style>
@@ -22,43 +23,12 @@ I'm Lev, a last-year computer science
     font-weight:700;
     font-size: 30px;
 }
-
-img:hover {
-  background:green;
-}
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-}
-
-.svg1 {
-  background: purple;
-  cursor: none;
-}
-
-.svg1:hover {
-  background: green;
-}
 </style>
-
-{
- resolve: 'gatsby-remark-images',
- options: {
-   linkImagesToOriginal: false,
- },
-}
 
 <div class="green">
     Markdown css styles
 </div>
-<label class="switch">
-  <input type="checkbox" checked>
-  <span class="slider round"></span>
-</label>
+
 
 <img class="svg1" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" style="" width="50" height="50">
 <div class="svg1">Hiyo</div>
