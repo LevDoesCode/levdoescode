@@ -16,7 +16,6 @@ JS, HTML, CSS, C++, C#, Python, AutoHotkey, SASS, TypeScript, Node, Express,
 
 I'm Lev, a third-year computer science
 
-<script src="https://kit.fontawesome.com/b878cb16a7.js" crossorigin="anonymous"></script>
 <style>
 .green {
     color: green;
