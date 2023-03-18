@@ -1,8 +1,54 @@
-<?xml version="1.0" standalone="no"?>
-    <svg width="500" height="300" style="border:1px red solid" xmlns="http://www.w3.org/2000/svg">
-        <foreignObject class="node" x="46" y="22" width="100" height="100">
-            <div style="border:1px green solid">I'm a div inside a SVG.</div>
-            <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50"/>
-        </foreignObject>
-        <circle cx="100" cy="160" r="50" fill="blue"></circle>
-    </svg>
+<!-- <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"> -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+    <defs>
+        <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+    </defs>
+    <g class="parallax">
+        <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(149, 202, 202, 0.4)"/>
+    </g>
+    <style>
+        .waves {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 100px;
+            min-height: 50px;
+            max-height: 100px;
+            border-radius: 25px;
+        }
+        .parallax&gt;use {
+            animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;      
+        }
+        .parallax&gt;use:nth-child(1) {
+            animation-delay: -2s;
+            animation-duration: 7s;
+        }
+        .parallax&gt;use:nth-child(2) {
+            animation-delay: -3s;
+            animation-duration: 10s;
+        }
+        .parallax&gt;use:nth-child(3) {
+            animation-delay: -4s;
+            animation-duration: 13s;
+        }
+        .parallax&gt;use:nth-child(4) {
+            animation-delay: -5s;
+            animation-duration: 20s;
+        }
+        @keyframes move-forever {
+            0% {
+                transform: translate3d(-90px, 0, 0);
+            }
+            100% {
+                transform: translate3d(85px, 0, 0);
+            }
+        }
+    </style>
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div class="container">
+                <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
